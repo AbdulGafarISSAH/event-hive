@@ -31,10 +31,10 @@ export default function Home() {
             <option value="drama">Drama</option>
             <option value="Tech">Tech</option>
             </select>
-            <div className="bg-primary text-white size-[60px] flex flex-row justify-center items-center rounded-md">
-                <Search/>
-            </div>
             
+        </div>
+        <div className="bg-primary text-white size-[60px] flex flex-row justify-center items-center rounded-md">
+                <Search/>
         </div>
     </form>
 
